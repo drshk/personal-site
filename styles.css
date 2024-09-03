@@ -8,7 +8,7 @@ body {
     font-size: large;
     
     display: block;
-    margin: 5em;
+    margin: 5%;
 }
 
 a {
@@ -16,12 +16,8 @@ a {
     text-decoration: underline;
 }
 
-#profile {
-    padding-left: 1em;
-}
-
 #profile #links {
-    padding-left: 1em;
+    padding-left: 3%;
 }
 
 a:hover {
