@@ -61,3 +61,7 @@ span{
 @keyframes cursor{
 	to{opacity: .0;}
 }
+
+a[rel="me"] {
+    display: none;
+}
